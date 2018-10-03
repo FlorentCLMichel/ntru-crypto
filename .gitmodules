@@ -19,3 +19,6 @@
 [submodule "NIST/ntruencrypt_nist_submission"]
 	path = NIST/ntruencrypt_nist_submission
 	url = https://github.com/NTRUOpenSourceProject/ntruencrypt_nist_submission.git
+[submodule "reference-code/raptor"]
+	path = reference-code/raptor
+	url = https://github.com/NTRUOpenSourceProject/raptor
