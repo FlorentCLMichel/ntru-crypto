@@ -53,8 +53,6 @@ Jun13, 2000	08/954,712	Oct 20, 1997	US
 Secure user identification based on ring homomorphisms 6,959,085 Oct 25, 2005 09/564,112	
 May 3, 2000	US, Europe, Canada
 
-
-
 Digital signature and authentication method and apparatus 7,308,097 Dec 11, 2007 10/313,082	
 Dec 6, 2002	US, Europe, Canada
 
@@ -65,3 +63,13 @@ Digital signature and authentication method and apparatus Pending Pending 200900
 Mar 12, 2009	US, Europe, Canada
 
 Security enhanced public key cryptosystem Pending Pending Pending Aug 12, 2001	US
+
+
+Additional Components:
+================
+
+The NTRU distribution is an aggregation of multiple components.  In addition to multiple implementations of cryptography algorithms, all of which are distributed under GPL or CC0, it also includes two additional components under separate licenses: 
+* JUNIT is provided to facilitate Java Unit Testing.  The JAR is provided unmodified, directly from the JUNIT project, where it is distributed under the Eclipse Public License v1.0.
+* A small number of third party LaTeX format templates are included.  They are provided unmodified, directly from the LaTeX support site, where they are distributed under the LaTeX Project Public License v1.3a.
+
+
