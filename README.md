@@ -28,7 +28,7 @@ The NTRU public key cryptography system represents a significant improvement in 
 
 "The open source licensing of the NTRU crypto system will make it even easier for wide-spread adoption of our X9.98 standard, allowing Financial Services companies to protect their important financial transactions",  said executive director Cynthia Fuller of Accredited Standards Committee X9 -Financial Industry Standards.   
 
-[An overview of additional information can be found here](https://www.onboardsecurity.com/products/ntru-crypto)
+[An overview of additional information can be found here](https://ntru.org/)
 
 
 FAQ
@@ -64,7 +64,7 @@ What is NTRU's history and peer review?
 NTRU was invented in 1996 based on a completely different mathematical problems from RSA and Elliptic Curve called the “Approximate close lattice vector problem.”  It has been published, reviewed in scholarly journals, and presented at Crypto, Eurocrypt, RSA. The NTRU approach to lattice-based cryptography, which uses a particular type of lattice known as an “ideal lattice”, has been a catalyst for the development of other efficient lattice-based cryptographic primitives, most notably Gentry’s approach to fully homomorphic encryption.
 
 
-There have been more than [20 reports](https://www.onboardsecurity.com/products/ntru-crypto/ntru-resources) and [numerous research papers](https://www.onboardsecurity.com/products/ntru-crypto/ntru-scrutiny) issued regarding the NTRU algorithm over the past 16 years.  This research came from academic institutions, including Brown University, L’École normale supérieure (ENS), University of California San Diego, and Shanghai Jiaotong University.  This scrutiny has led to even stronger parameter choices and hardened implementations.  Now that NTRU is available under an open source license, the algorithm will receive even more testing.
+There have been more than [20 reports and numerous research papers](https://ntru.org/resources.shtml) issued regarding the NTRU algorithm over the past 16 years.  This research came from academic institutions, including Brown University, L’École normale supérieure (ENS), University of California San Diego, and Shanghai Jiaotong University.  This scrutiny has led to even stronger parameter choices and hardened implementations.  Now that NTRU is available under an open source license, the algorithm will receive even more testing.
 
 How fast is NTRU?
 -----------------
@@ -143,4 +143,4 @@ With NTRU, there's a tradeoff to be made in terms of the parameter q. The larger
 
 Where can I get more technical information
 ------------------------------------------
-The [NTRU Resources webpage](https://www.onboardsecurity.com/products/ntru-crypto/ntru-resources) contains a collection of boatload content on NTRU including NIST reports, mathematical resources and other very useful stuff.
+The [NTRU Resources webpage](https://ntru.org/resources.shtml) contains a collection of boatload content on NTRU including NIST reports, mathematical resources and other very useful stuff.
